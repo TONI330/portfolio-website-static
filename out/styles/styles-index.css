@@ -27,6 +27,10 @@ html {
     text-align: center;
 }
 
+.first-sight > a {
+    color: white;
+}
+
 .logo-circle {
     background: #24bd75;
     width: 200px;
@@ -49,10 +53,14 @@ html {
 
 .role-text {
     padding-top: 1.5%;
+}
+
+.role-text > a{
     color:rgb(189, 189, 189);
     font-size: 2em;
     text-transform: uppercase;
     text-decoration-line: underline overline;
+    text-decoration-color: rgb(189, 189, 189);
     text-underline-offset: 10px;
 }
 

@@ -27,6 +27,10 @@
     font-weight: 100;
 }
 
+.body-cv a {
+    color: rgb(245, 245, 245);
+}
+
 .cv-top-left {
     display: flex;
     flex-direction: column;
