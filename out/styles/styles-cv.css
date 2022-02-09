@@ -29,6 +29,8 @@
 
 .body-cv a {
     color: rgb(245, 245, 245);
+    text-decoration-line: underline;
+    font-weight: bold;
 }
 
 .cv-top-left {
