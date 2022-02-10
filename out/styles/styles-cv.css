@@ -27,6 +27,12 @@
     font-weight: 100;
 }
 
+.cv-item a {
+    color: rgb(245, 245, 245);
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+
 .job a {
     color: rgb(245, 245, 245);
     text-decoration-line: underline;
